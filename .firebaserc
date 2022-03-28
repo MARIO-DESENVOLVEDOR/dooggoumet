@@ -1,0 +1,14 @@
+{
+    "projects": {
+        "default": "cardapio-web-6e6c4"
+    },
+    "targets": {
+        "cardapio-web-6e6c4": {
+            "hosting": {
+                "admin-cd-meucardapio": [
+                    "admin-cd-meucardapio"
+                ]
+            }
+        }
+    }
+}
